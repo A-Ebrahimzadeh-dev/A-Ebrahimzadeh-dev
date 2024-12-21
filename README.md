@@ -1,6 +1,7 @@
  # *Hi there* 👋
 
-	
+I’m Amirhossein Ebrahimzadeh, an enthusiastic backend developer passionate about building scalable and efficient web applications. I work with JavaScript, TypeScript, Node.js, Express.js, RESTful APIs using these technologies to create robust APIs and data-driven solutions.
+I’m always discovering and learning new technologies to continuously improve my skills and advance in this field. I believe in the power of continuous growth and am committed to applying best practices in every project I work on. Let’s innovate and create amazing things together! 🚀	
 <!--
 **A-Ebrahimzadeh-dev/A-Ebrahimzadeh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
